@@ -71,7 +71,7 @@ Q2：如果让你设计一个前端路由库，你会怎么考虑？
   
 前端新需求的复杂性很大程度来自：我们常常将“变化”和“异步”两个概念搞混。一些库如React试图在View层禁止异步和直接修改DOM来解决这个问题，但处理state的任务依然存在。状态管理库就是为了帮助解决这个问题被开发出来的。
   
-- Redux，JS 应用的状态容器，提供可预测的状态管理
+- [Redux](https://github.com/Noa-p/myblog/blob/main/frontend-01-redux.md)，JS 应用的状态容器，提供可预测的状态管理
 - MobX，简单，可扩展的状态管理库
 - Recoil，React 状态管理库
   
