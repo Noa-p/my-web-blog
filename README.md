@@ -7,7 +7,7 @@ Web相关技术文章&收藏夹
 - HTML
 - CSS / CSS预处理器（ Less / Scss / Sass ）
 - JavaScript / TypeScript / ECMAScript标准
-- React / Vue / Angular
+- [React](https://github.com/Noa-p/myblog/blob/main/frontend-01-react.md) / Vue / Angular
 - Node.js
 - WebGL 
 
