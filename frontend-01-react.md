@@ -59,6 +59,8 @@ Q1：为什么需要React-Hooks？
 | useImperativeHandle | advanced | `useImperativeHandle(ref, createHandle, [deps])`，使用 ref 时自定义暴露给父组件的实例值 | useImperativeHandle 应当与 forwardRef 一起使用 |
 | useLayoutEffect | advanced | 会在所有的 DOM 变更之后同步调用 effect | 在浏览器执行绘制之前，useLayoutEffect 内部的更新计划将被同步刷新 |
 | useDebugValue | advanced | 用于在 React 开发者工具中显示自定义 hook 的标签 | 延迟格式化 debug 值 |
+  
+## React 事件系统
 
 ## React 路由
 - [react-router](https://reactrouter.com/)，全特性客户端/服务端路由库for React。
@@ -90,6 +92,8 @@ Q2：如果让你设计一个前端路由库，你会怎么考虑？
 
 ## React SSR
 - nest.js，一个渐进式的 Node.js 框架，用于构建高效、可靠和可扩展的服务端应用。
+
+## React 性能优化
 
 ## React 原理
 - [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide/)
