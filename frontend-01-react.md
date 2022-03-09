@@ -100,6 +100,7 @@ Q2：如果让你设计一个前端路由库，你会怎么考虑？
 - [虚拟DOM](url)
 - [diff算法](url)
 - [React Fiber](url)
+- [Key](https://zh-hans.reactjs.org/docs/reconciliation.html#recursing-on-children)
 
 ## 常见问题
 Q：setState是同步还是异步？
