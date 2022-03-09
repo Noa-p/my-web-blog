@@ -97,6 +97,9 @@ Q2：如果让你设计一个前端路由库，你会怎么考虑？
 
 ## React 原理
 - [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide/)
+- [虚拟DOM](url)
+- [diff算法](url)
+- [React Fiber](url)
 
 ## 常见问题
 Q：setState是同步还是异步？
