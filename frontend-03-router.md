@@ -40,5 +40,6 @@ hash模式的缺点：
 
 ## 参考
 [1] [「前端进阶」彻底弄懂前端路由](https://juejin.cn/post/6844903890278694919)
+
 [2] [React-Router - Main Concepts](https://reactrouter.com/docs/en/v6/getting-started/concepts)
 
