@@ -22,6 +22,8 @@ React是一个用于构建用户界面的JavaScript库。开发者可以按需�
   
 [在什么场景下使用受控组件/非受控组件](https://goshacmd.com/controlled-vs-uncontrolled-inputs-react/)
 
+[受控组件 & 非受控组件](https://www.baobangdong.cn/controlled-components-and-uncontrolled-components/)
+
 高阶组件 & Render Props
 
 1. 高阶组件是参数为组件，返回值为新组件的函数。组件是将 props 转换为 UI，而高阶组件是将组件转换为另一个组件。
