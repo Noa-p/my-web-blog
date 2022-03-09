@@ -62,7 +62,7 @@ Q1：为什么需要React-Hooks？
 - [react-router](https://reactrouter.com/)，全特性客户端/服务端路由库for React。
 - [reach router](https://github.com/reach/router)，下一代React路由。
 
-Q1：前端路由的几种模式的区别？[点击这里](/)
+Q1：前端路由的几种模式的区别？[前端路由](https://github.com/Noa-p/myblog/blob/main/frontend-03-router.md)
 
 Q2：如果让你设计一个前端路由库，你会怎么考虑？
 
