@@ -90,6 +90,7 @@ Q2：如果让你设计一个前端路由库，你会怎么考虑？
 - nest.js，一个渐进式的 Node.js 框架，用于构建高效、可靠和可扩展的服务端应用。
 
 ## React 原理
+- [Immutability in React and Redux: The Complete Guide](https://daveceddia.com/react-redux-immutability-guide/)
 
 ## 常见问题
 Q：setState是同步还是异步？
