@@ -50,7 +50,7 @@ Q1：为什么需要React-Hooks？
 | 名称 | 常用 | 用途 | 备注 |
 |:--- | --- | --- | --- |
 | useState | basic | 接收初始值，返回一个state，以及更新state的函数 | |
-| useEffect | basic | 接收一个包含命令式、且可能有副作用代码的函数 | |
+| useEffect | basic | 接收一个包含命令式、且可能有副作用代码的函数 | 第二个可选参数，是一个数组。只有数组中的值变化了，才会执行effect。如果是空数组，意味着effect只执行一次。 |
 | useContext | basic | 接收一个 context 对象（React.createContext 的返回值）并返回该 context 的当前值 | |
 | useReducer | advanced | `const [state, dispatch] = useReducer(reducer, initialArg, init);` | useState的替代方案 |
 | useCallback | advanced | 接收内联回调函数及依赖项数组，返回一个 memoized 回调函数 | 该回调函数仅在某个依赖项改变时才会更新；`useCallback(fn, deps)`相当于`useMemo(() => fn, deps)` |
