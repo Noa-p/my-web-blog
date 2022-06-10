@@ -6,7 +6,7 @@ Web相关技术文章&收藏夹
 01 语言
 - HTML
 - CSS / CSS预处理器（ Less / Scss / Sass ）
-- JavaScript / TypeScript / ECMAScript标准
+- JavaScript / [TypeScript](https://github.com/Noa-p/my-web-blog/blob/main/frontend-01-typescript.md) / ECMAScript标准
 - [React](https://github.com/Noa-p/myblog/blob/main/frontend-01-react.md) / Vue / Angular
 - Node.js
 - WebGL 
